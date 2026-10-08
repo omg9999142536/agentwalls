@@ -15,7 +15,7 @@ Three primitives, ~600 lines of dependency-free Python:
 ## Quick start
 
 ```bash
-git clone https://github.com/omg9999142536/agent-econ.git
+git clone https://github.com/omg9999142536/agentwalls.git
 cd agent-econ
 python3 sim/economy_sim.py
 ```
@@ -34,3 +34,12 @@ See whitepaper Appendix A (Terra/UST, The DAO, USDC depeg) for why each omission
 ## License
 
 MIT
+
+---
+
+## Related Projects
+
+- **[memorykit](https://github.com/omg9999142536/memorykit)** 🧠 — memory architecture for AI agents (orthogonal axes, GC, hash-chained clock)
+- **[agentguard-skill](https://github.com/omg9999142536/agentguard-skill)** 🛡️ — budget fuse for AI agent API spend
+
+*Same author, same production-tested approach: kernel, memory, economy — the three organs of a durable agent.*
